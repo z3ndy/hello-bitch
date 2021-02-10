@@ -1,0 +1,17 @@
+ <img class="img-responsive" src="images/burger_slide.png" alt="#" />
+ <div class="carousel-item">
+                                    <div class="row">
+                                        <div class="col-md-5">
+                                            <div class="slider_cont">
+                                                <h3>Saatnya makan<br>Wkwkwkwk</h3>
+                                                <p>matamu cok.</p>
+                                                <a class="main_bt_border" href="#">Order Now</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-7 full text_align_center">
+                                            <div class="slider_image">
+                                                <img class="img-responsive" src="images/burger_slide.png" alt="#" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
